@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact **I am a solitude lover.**
 
-![Uploading 241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif…]()
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
