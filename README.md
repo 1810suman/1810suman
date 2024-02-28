@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C, Python, DSA**
 
-- 📫 How to reach me **su1choudhury04@gmail.com**
+- 📫 Reach me at **su1choudhury04@gmail.com**
 
 - ⚡ Fun fact **I am a solitude lover.**
 
