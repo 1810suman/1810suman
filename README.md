@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/su1_4dhry" target="blank"><img src="https://img.shields.io/twitter/follow/su1_4dhry?logo=twitter&style=for-the-badge" alt="su1_4dhry" /></a> </p>
 
-- 🌱 I’m currently learning **C, Python, DSA**
+- 🌱 I’m currently learning **C, C++, Python, DSA, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **su1choudhury04@gmail.com**
 
