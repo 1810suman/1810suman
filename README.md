@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/su1_4dhry" target="blank"><img src="https://img.shields.io/twitter/follow/su1_4dhry?logo=twitter&style=for-the-badge" alt="su1_4dhry" /></a> </p>
 
-<img src= "https://github.com/1810suman/1810suman/blob/main/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" align="right" width="600" height="500">
+<img src= "https://github.com/1810suman/1810suman/blob/main/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" align="right" width="550" height="500">
 
 <h3 align="left">About me 👀 :</h3>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **su1choudhury04@gmail.com**
 
-- 💬 Ask me about ... What I Can Answer 😄
+- 💬 Ask me about **What I Can Answer 😄**
 
 - 😄 Pronouns: **She/Her/Ms.**
 
