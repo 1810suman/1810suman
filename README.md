@@ -1,10 +1,10 @@
 <img src= "https://github.com/1810suman/1810suman/blob/main/hello.gif" align="center" width="1000" height="220">
 <h1 align="center">🌸I'm Suman Choudhury🌸</h1>
-<h3 align="center">A passionate UnderGrad-Tech Student 💻 from Delhi, India</h3>
+<h3 align="center"><i>"A passionate UnderGrad-Tech Student 💻 from Delhi, India"</i></h3>
 
 <p align="left"> <a href="https://twitter.com/su1_4dhry" target="blank"><img src="https://img.shields.io/twitter/follow/su1_4dhry?logo=twitter&style=for-the-badge" alt="su1_4dhry" /></a> </p>
 
-<img src= "https://github.com/1810suman/1810suman/blob/main/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" align="right" width="450" height="400">
+<img src= "https://github.com/1810suman/1810suman/blob/main/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" align="right" width="600" height="500">
 
 <h3 align="left">About me 👀 :</h3>
 
