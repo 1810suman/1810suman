@@ -1,22 +1,30 @@
-<h1 align="center">Hi 👋, I'm Suman Choudhury</h1>
-<h3 align="center">A passionate UnderGrad-Tech Student from Delhi, India</h3>
+<img src= "https://github.com/1810suman/1810suman/blob/main/hello.gif" align="center" width="1000" height="220">
+<h1 align="center">🌸I'm Suman Choudhury🌸</h1>
+<h3 align="center">A passionate UnderGrad-Tech Student 💻 from Delhi, India</h3>
 
 <p align="left"> <a href="https://twitter.com/su1_4dhry" target="blank"><img src="https://img.shields.io/twitter/follow/su1_4dhry?logo=twitter&style=for-the-badge" alt="su1_4dhry" /></a> </p>
 
 <img src= "https://github.com/1810suman/1810suman/blob/main/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" align="right" width="450" height="400">
 
+<h3 align="left">About me 👀 :</h3>
+
+- 🔭 I’m currently working on **Self Development**
+  
 - 🌱 I’m currently learning **C, C++, Python, DSA, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **su1choudhury04@gmail.com**
 
+- 💬 Ask me about ... What I Can Answer 😄
+
+- 😄 Pronouns: **She/Her/Ms.**
+
 - ⚡ Fun fact **I am a solitude lover.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🔗 :</h3>
 <p align="left">
 <a href="https://twitter.com/su1_4dhry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="su1_4dhry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suman-choudhury-866928289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-choudhury-866928289" height="30" width="40" /></a>
 <a href="https://instagram.com/su1.4dhry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su1.4dhry" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/su1choudhury04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="su1choudhury04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
